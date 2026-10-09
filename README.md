@@ -70,17 +70,6 @@ flowchart LR
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zhuohengli03&show_icons=true&count_private=true&hide_border=true&theme=github_dark"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zhuohengli03&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhuohengli03&layout=compact&hide_border=true&theme=github_dark"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhuohengli03&layout=compact&hide_border=true" alt="Top languages"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zhuohengli03&hide_border=true&theme=dark"/>
     <img src="https://streak-stats.demolab.com?user=Zhuohengli03&hide_border=true" alt="GitHub streak"/>
   </picture>

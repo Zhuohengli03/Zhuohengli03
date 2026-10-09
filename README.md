@@ -21,7 +21,10 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Zhuohengli03" width="100%" alt="GitHub contribution calendar for the last year"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhuohengli03/Zhuohengli03/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Zhuohengli03/Zhuohengli03/output/github-snake.svg" width="100%" alt="Snake animation eating my GitHub contribution graph"/>
+  </picture>
 </p>
 
 ---

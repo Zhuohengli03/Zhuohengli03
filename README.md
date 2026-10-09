@@ -20,6 +20,10 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/Zhuohengli03" width="100%" alt="GitHub contribution calendar for the last year"/>
+</p>
+
 ---
 
 ### About me

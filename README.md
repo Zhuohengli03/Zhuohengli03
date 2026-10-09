@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="Felix at his desk in New York: laptop, guqin, camera and the city at night"/>
+</p>
+
 <h1 align="center">Zhuoheng (Felix) Li</h1>
 
 <p align="center">

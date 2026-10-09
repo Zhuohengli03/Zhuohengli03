@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.jpg" width="100%" alt="Felix at his desk in New York: laptop, guqin, camera and the city at night"/>
-</p>
-
 <h1 align="center">Zhuoheng (Felix) Li</h1>
 
 <p align="center">
@@ -15,6 +11,13 @@
   <a href="https://www.linkedin.com/in/zhuoheng-li-3365b5351/"><img src="https://img.shields.io/badge/LinkedIn-Zhuoheng%20Li-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:zhuohengli03@gmail.com"><img src="https://img.shields.io/badge/Email-zhuohengli03%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://lingxian.app"><img src="https://img.shields.io/badge/Live%20product-lingxian.app-8B5A2B?style=flat-square" alt="Lingxian"/></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zhuohengli03&hide_border=true&theme=dark"/>
+    <img src="https://streak-stats.demolab.com?user=Zhuohengli03&hide_border=true" alt="GitHub streak"/>
+  </picture>
 </p>
 
 ---
@@ -70,15 +73,12 @@ flowchart LR
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
 </p>
 
-### GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zhuohengli03&hide_border=true&theme=dark"/>
-    <img src="https://streak-stats.demolab.com?user=Zhuohengli03&hide_border=true" alt="GitHub streak"/>
-  </picture>
-</p>
-
 ### Off the clock
 
 1,500+ hours in *Squad*, currently deep into *Wardogs* · board games · photography · trying every new AI agent tool I can get my hands on.
+
+---
+
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="Felix at his desk in New York: laptop, guqin, camera and the city at night"/>
+</p>
